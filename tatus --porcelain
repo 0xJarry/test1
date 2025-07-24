@@ -1,0 +1,23 @@
+[33mcommit 8c45199e5677f7a6e1ad80e9a319f2c4bcdec1f5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: 0xJarry <okanella@gmail.com>
+Date:   Wed Jul 23 21:53:15 2025 -0500
+
+    Initial commit: Next.js + Supabase + Vercel setup
+
+.gitignore
+README.md
+eslint.config.mjs
+next.config.ts
+package-lock.json
+package.json
+postcss.config.mjs
+public/file.svg
+public/globe.svg
+public/next.svg
+public/vercel.svg
+public/window.svg
+src/app/favicon.ico
+src/app/globals.css
+src/app/layout.tsx
+src/app/page.tsx
+tsconfig.json
